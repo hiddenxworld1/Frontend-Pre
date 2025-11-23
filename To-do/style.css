@@ -76,7 +76,7 @@ body {
     padding: 0;
 }
 
-/* LIST ITEM STRUCTURE ADDED */
+
 .todoList li {
   display: flex;
   align-items: center;
@@ -120,7 +120,7 @@ body {
   color: #fff;
 }
 
-/* MODAL CSS */
+
 .edit-modal {
   position: fixed;
   top: 0;
